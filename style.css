@@ -1,0 +1,35 @@
+html {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Futura', sans-serif;
+}
+
+body {
+    background: rgb(17, 197, 152);
+    background: -moz-linear-gradient(90deg, rgb(19, 176, 187) 0%, rgb(32, 223, 223) 100%);
+    background: -webkit-linear-gradient(90deg, rgb(19, 176, 187) 0%, rgba(32,229,223,1) 100%);
+    background: linear-gradient(90deg, rgba(19,176,187,1) 0%, rgba(32,229,246,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4a8c8",endColorstr="#006df6",GradientType=1);
+}
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+}
+
+h2 {
+  color: rgb(12, 151, 121);
+  font-family: 'Nunito', sans-serif;
+  font-size: 35px;
+}
+
+.container {
+    background: rgb(91, 112, 182);
+    border-radius: 10px;
+}
+
+hr {
+    margin-left: 0;
+    width: 80px;
+    background: rgb(54, 5, 100);
+}
